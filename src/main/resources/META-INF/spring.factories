@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.ywx.springboot.starter.demo.AnimalAutoConfiguration

@@ -17,10 +17,6 @@ import org.springframework.context.annotation.Configuration;
  * @ConditionalOnClass(AnimalProperties.class)表示Classpath里有AnimalProperties这个类的时候才执行这个配置文件
  * @ConditionalOnMissingBean(AnimalService.class)表示容器中没有AnimalService这个Bean的时候才注入这个Bean
  *
- * 作者：俞大仙_
- * 链接：https://www.jianshu.com/p/18d57a99d359
- * 来源：简书
- * 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
  * @modified By：
  * @version: 1.0
  */
